@@ -3,7 +3,7 @@
 
 def registry = 'https://mansuralam.jfrog.io'
 def imageName = 'mansuralam.jfrog.io/dockerrepo-docker-local/javapp'
-def version   = '2.1.4'
+def version   = '2.1.5'
 pipeline {
     agent {
         node {
